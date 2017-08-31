@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opto22_IPconfig", "Opto22_IPconfig\Opto22_IPconfig.csproj", "{ADCE31C8-3F44-4EF2-9990-25EA4079C395}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADCE31C8-3F44-4EF2-9990-25EA4079C395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADCE31C8-3F44-4EF2-9990-25EA4079C395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADCE31C8-3F44-4EF2-9990-25EA4079C395}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{ADCE31C8-3F44-4EF2-9990-25EA4079C395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADCE31C8-3F44-4EF2-9990-25EA4079C395}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADCE31C8-3F44-4EF2-9990-25EA4079C395}.Release|Default.ActiveCfg = Release|Any CPU
+		{ADCE31C8-3F44-4EF2-9990-25EA4079C395}.Release|Default.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEB200AD-CC77-4E49-9316-88C9C08EC25F}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+EndGlobal
